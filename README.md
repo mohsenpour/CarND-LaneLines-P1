@@ -1,4 +1,4 @@
-# lane_detection
+# CarND-LaneLines-P1
 In this project highway lanes are detected using opencv:
 
 <p align="center">
